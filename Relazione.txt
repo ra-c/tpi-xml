@@ -1,0 +1,15 @@
+TITOLO:STRUTTURA DI UN DATABASE IN XML
+GRUPPO:Antonio Romano, Enrico Fiore, Gianluca Baldini, Elisabetta Scognamiglio, Cristiano De Rosa
+ORE IMPIEGATE:4 Ore di laboratrio, 2 ore dedicate all'elaborazione della documentazione
+SCOPO/OBIETTIVO:Creare una struttura di un database in XML. L' obiettivo dell'esercitazione era quello di dimostrare le funzionalità di XML,CSS E XSLT.
+XML è un linguaggio atto a descrivere documenti strutturati.
+CSS è un linguaggio utilizzato per descrivere la presentazione di un documento XML o HTML.
+XSLT è un linguaggio adoperato per trasformare documenti XML in altri formati
+STRUMENTI/RISORSE: Vim/Visual Studio code text editor, Firefox come browser/parser XML, 
+Linguaggio HTML, XML, XPATH, XSLT
+DOCUMENTAZIONE INTERNA:
+
+
+DOCUMENTAZIONE ESTERNA:XML(eXtensible Markup Language) è un linguaggio atto a descrivere documenti strutturati.Esso è costituito da un insieme standard di regole sintattiche per modellare la struttura di documenti di dati.
+La caratteristica principale di questo linguaggio è quella di rappresentare contenuti in un formato compatibile con qualsiasi sistema hardware e software, in quanto si tratta di un semplice file in formato testo.
+Per permettere il corretto funzionamento di XML è sufficiente aprire il documento XML con un parser XML(ad esempio un normale browser come firefox). 
